@@ -1,5 +1,5 @@
 emr.pem
-*.idea/*
-*.bsp/*
-*project/*
-*target/*
+*.idea
+*.bsp
+*project
+*target
