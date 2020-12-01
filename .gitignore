@@ -1,0 +1,5 @@
+emr.pem
+*.idea/*
+*.bsp/*
+*project/*
+*target/*
